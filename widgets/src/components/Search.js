@@ -6,7 +6,7 @@ const Search = () => {
     console.log('i run with every render')
 
     useEffect(() => {
-        console.log('i only run once and every intitals')
+        console.log('i only run onceeeeeeeee and every intitals')
     });
 
     return (
