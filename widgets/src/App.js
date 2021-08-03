@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import Accordion from './components/Accordion';
 import Search from './components/Search';
 import Dropdown from './components/Dropdown';
@@ -64,12 +64,6 @@ const App = () => {
                     selected={selected}
                     onSelectedChange={setSelected} />
             </Route>
-
-            {/* {showDropDown ?
-                <Dropdown selected={selected} onSelectedChange={setSelected} options={options} />
-                : null
-            } */}
-
 
         </div>
     );
