@@ -12,7 +12,7 @@ const items = [
         content: "React is a front end JS framework"
     },
     {
-        title: "Why use React?",
+        title: "Why React?",
         content: "React is a favourite JS Library  among engineers"
     },
     {
