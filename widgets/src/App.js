@@ -8,7 +8,7 @@ import Header from './components/Header';
 
 const items = [
     {
-        title: "what is React?",
+        title: "what is Reactt?",
         content: "React is a front end JS framework"
     },
     {
